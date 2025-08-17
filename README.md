@@ -1,6 +1,6 @@
 ![Uploading image.png…]()
 # Real-Time Twitter Sentiment Analysis
-# Full project report here : https://docs.google.com/document/d/13ADjBQf-ogM7_1I766KbIY-SgsIPV-i2cmSSm4sidys/edit?usp=sharing
+
 
 This project focuses on **real-time sentiment analysis of tweets** using a dataset sourced from **Kaggle**.  
 The main goal is to compare the performance of two different sentiment analysis approaches:
@@ -16,3 +16,5 @@ The main goal is to compare the performance of two different sentiment analysis 
 
 ### Objective
 The project aims to identify which method performs better under different conditions, and provide insights into the trade-offs between **rule-based sentiment analysis** and **machine learning-based sentiment analysis**.
+
+# Full project report here : https://docs.google.com/document/d/13ADjBQf-ogM7_1I766KbIY-SgsIPV-i2cmSSm4sidys/edit?usp=sharing
